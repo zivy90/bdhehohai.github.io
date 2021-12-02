@@ -33,6 +33,7 @@
 - 物联网
 - 无人机
 - 工业互联网
+
 ### 教育经历
 -  2020.06–至今（预计2022,06），博士后，东北大学，控制科学与工程，导师：刘士新教授
 - 2017.10–2019.04	，国家留学基金委联合培养博士项目	，美国伊利诺伊厄巴纳-香槟分校（UIUC），导师：Lui Sha教授
@@ -45,7 +46,7 @@
 - 2021.08-至今，科技部重点研发计划“科技冬奥”专项“智能雪车雪橇赛道与竞技训练关键技术研究”（2021YFF0307103）项目，课题骨干
 - 2020.09-至今，科技部重点研发计划“混合业务流融合与调度技术”（2018YFB1702003）项目，其他人员
 
-#### 论文
+### 论文
 
 1. **Zhiwei Feng**, Mingyang Cai, Qingxu Deng. An Efficient Pro-active Fault-Tolerance Scheduling of IEEE 802.1Qbv Time Sensitive Network. IEEE Internet of Things Journal,2021-10-06.(SCI，中科院**1区**，已录用)
 
@@ -65,11 +66,12 @@
 
 8. 韩美灵, 邓庆绪, 张天宇, **冯智伟**, 林宇晗. 多核处理器限制性可抢占G-EDF调度策略研究[J]. 计算机学报，Vol. 42, No. 11, Nov. 2019(EI)
 9. Meiling Han, Tianyu Zhang, Yuhan Lin, **Zhiwei Feng**, and Qingxu Deng. Global Fixed Priority Scheduling with Constructing Execution Dependency in Multiprocessor Real-Time Systems[J]. Journal of Circuits, Systems and Computers 27, no. 10 (2018-2): 1850165.(SCI, 4区)
-#### 在投论文
+
+### 在投论文
 1. 一作，An Efficient Reservation-based Fault-Tolerance Scheduling of IEEE 802.1Qbv Time-Sensitive Networking, Journal of Systems Architecture (2019): 101694 (SCI，**CCF-B**，中科院2区, 大修)
 2. 一作，An Enhanced Fault-Tolerance Strategy for Time-Sensitive Networking. Design Automation Conference 2022(EI，**CCF-A**)
 
-#### 专利
+### 专利
 1. 关楠，**冯智伟**，邓庆绪，吕鸣松.一种无人机识别虚假GPS信号的方法；申请(专利)号：CN201610489035.5；授权日期：2020.8.28
 2. 邓庆绪，佟海滨，郑一麟，**冯智伟**，易夏羽，杨凡凡.一种工业监控用信息收集、转发汇聚结点: ZL201310335048.3[P]，授权日期：2016.9.7
 3. 邓庆绪，李京华, **冯智伟**, 蔡明洋.一种基于发布/订阅模型的时间敏感网络增量调度方法[P].202110811183.5，（已受理）
