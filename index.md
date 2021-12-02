@@ -13,7 +13,7 @@
 <p><!--<a href="/index-en.html">简历</a>--></p>
     </td>
     <td width="25%">
-      <img src="/fzw.jpg" width="100%">
+      <img src="https://github.com/zivy90/homepage/blob/master/fzw.jpg?raw=true" width="100%">
     </td>
   </tr>
 </table>
