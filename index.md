@@ -4,7 +4,7 @@
     <td width="75%">
       <h1>冯智伟</h1>
 	<p><b>出生年月：1990年10月</b></p>
-      <p><b>东北大学  信息科学与工程学院博士（后）</b></p>
+      <p><b>东北大学  信息科学与工程学院 博士（后）</b></p>
       <p><b>专业：计算机</b></p>
 <!--       <p><b>邮箱："fengzw" at "mail.neu.edu.cn"</b></p> -->
 	<p><b>邮箱：fengzw@mail.neu.edu.cn， fengzw@aliyun.com</b></p>    
