@@ -52,20 +52,20 @@
 
 ### 论文
 
-1. **Zhiwei Feng**, Mingyang Cai, Qingxu Deng. An Efficient Pro-active Fault-Tolerance Scheduling of IEEE 802.1Qbv Time Sensitive Network. IEEE Internet of Things Journal,2021-10-06.(SCI，中科院**1区**，已录用)
-2. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Wenchen Liu, Qingxu Deng, Xue Liu, and Wang Yi. Efficient drone hijacking detection using Two-Step GA-XGBoost[J]. Journal of Systems Architecture (2019): 101694 (SCI，**CCF-B**，中科院2区)
-3. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi. An Efficient UAV Hijacking Detection Method Using Onboard Inertial Measurement Unit[J]. ACM Transactions on Embedded Computing Systems (TECS) 17, no. 6 (2019): 96 (SCI，**CCF-B**，中科院3区)
-4. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi. Efficient drone hijacking detection using onboard motion sensors[C]. In Design, Automation & Test in Europe Conference & Exhibition (DATE), 2017, pp. 1414-1419. IEEE, 2017 (EI，**CCF-B**)
-5. Yue Tang, **Zhiwei Feng**, Nan Guan, Xu Jiang, Mingsong Lv, Qingxu Deng, Wang Yi. Response Time Analysis and Priority Assignment of Processing Chains on ROS2 Executors[C]. IEEE Real-Time Systems Symposium(RTSS 2020), December, 1-4, 2020(EI，**CCF-****A**)
-6. Jiyang Chen, **Zhiwei Feng**, Jen-Yang Wen, Bo Liu, and Lui Sha. A Container-based DoS Attack-Resilient Control Framework for Real-Time UAV Systems[C]. In 2019 Design, Automation & Test in Europe Conference & Exhibition (DATE), pp. 1222-1227. IEEE, 2019 (EI，**CCF-B**)
-6. Yue Tang, Nan Guan, **Zhiwei Feng**, Xu Jiang and Wang Yi. Response Time Analysis of Lazy Round Robin[C]. In Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021 (EI，**CCF-B**)
-7. Chuancai Gu, Nan Guan, **Zhiwei Feng**, Qingxu Deng,Xiaobo Sharon Hu and Wang Yi. Transforming Real-Time Task Graphs to Improve Schedulability[C], IEEE International Conference on Embedded and Real-Time Computing Systems and Applications（RTCSA）  2016. (国际著名会议，EI，最佳论文提名)
-8. 韩美灵, 邓庆绪, 张天宇, **冯智伟**, 林宇晗. 多核处理器限制性可抢占G-EDF调度策略研究[J]. 计算机学报，Vol. 42, No. 11, Nov. 2019(EI)
-9. Meiling Han, Tianyu Zhang, Yuhan Lin, **Zhiwei Feng**, and Qingxu Deng. Global Fixed Priority Scheduling with Constructing Execution Dependency in Multiprocessor Real-Time Systems[J]. Journal of Circuits, Systems and Computers 27, no. 10 (2018-2): 1850165.(SCI, 4区)
+1. **Zhiwei Feng**，Qingxu Deng, Mingyang Cai,Jinghua Li. Efficient Reservation-based Fault-Tolerant Scheduling for IEEE 802.1Qbv Time-Sensitive Networking, Journal of Systems Architecture (2021) (已录用，SCI，CCF-B，中科院2区)
+2. **Zhiwei Feng**, Mingyang Cai, Qingxu Deng. An Efficient Pro-active Fault-Tolerance Scheduling of IEEE 802.1Qbv Time Sensitive Network. IEEE Internet of Things Journal,2021-10-06.(SCI，中科院**1区**，已录用)
+3. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Wenchen Liu, Qingxu Deng, Xue Liu, and Wang Yi. Efficient drone hijacking detection using Two-Step GA-XGBoost[J]. Journal of Systems Architecture (2019): 101694 (SCI，**CCF-B**，中科院2区)
+4. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi. An Efficient UAV Hijacking Detection Method Using Onboard Inertial Measurement Unit[J]. ACM Transactions on Embedded Computing Systems (TECS) 17, no. 6 (2019): 96 (SCI，**CCF-B**，中科院3区)
+5. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi. Efficient drone hijacking detection using onboard motion sensors[C]. In Design, Automation & Test in Europe Conference & Exhibition (DATE), 2017, pp. 1414-1419. IEEE, 2017 (EI，**CCF-B**)
+6. Yue Tang, **Zhiwei Feng**, Nan Guan, Xu Jiang, Mingsong Lv, Qingxu Deng, Wang Yi. Response Time Analysis and Priority Assignment of Processing Chains on ROS2 Executors[C]. IEEE Real-Time Systems Symposium(RTSS 2020), December, 1-4, 2020(EI，**CCF-****A**)
+7. Jiyang Chen, **Zhiwei Feng**, Jen-Yang Wen, Bo Liu, and Lui Sha. A Container-based DoS Attack-Resilient Control Framework for Real-Time UAV Systems[C]. In 2019 Design, Automation & Test in Europe Conference & Exhibition (DATE), pp. 1222-1227. IEEE, 2019 (EI，**CCF-B**)
+8. Yue Tang, Nan Guan, **Zhiwei Feng**, Xu Jiang and Wang Yi. Response Time Analysis of Lazy Round Robin[C]. In Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021 (EI，**CCF-B**)
+9. Chuancai Gu, Nan Guan, **Zhiwei Feng**, Qingxu Deng,Xiaobo Sharon Hu and Wang Yi. Transforming Real-Time Task Graphs to Improve Schedulability[C], IEEE International Conference on Embedded and Real-Time Computing Systems and Applications（RTCSA）  2016. (国际著名会议，EI，最佳论文提名)
+10. 韩美灵, 邓庆绪, 张天宇, **冯智伟**, 林宇晗. 多核处理器限制性可抢占G-EDF调度策略研究[J]. 计算机学报，Vol. 42, No. 11, Nov. 2019(EI)
+11. Meiling Han, Tianyu Zhang, Yuhan Lin, **Zhiwei Feng**, and Qingxu Deng. Global Fixed Priority Scheduling with Constructing Execution Dependency in Multiprocessor Real-Time Systems[J]. Journal of Circuits, Systems and Computers 27, no. 10 (2018-2): 1850165.(SCI, 4区)
 
 ### 在投论文
-1. 一作，An Efficient Reservation-based Fault-Tolerance Scheduling of IEEE 802.1Qbv Time-Sensitive Networking, Journal of Systems Architecture (2019): 101694 (SCI，**CCF-B**，中科院2区, 大修)
-2. 一作，An Enhanced Fault-Tolerance Strategy for Time-Sensitive Networking. Design Automation Conference 2022(EI，**CCF-A**)
+1. 一作，An Enhanced Fault-Tolerance Strategy for Time-Sensitive Networking. Design Automation Conference 2022(EI，**CCF-A**)
 
 ### 专利
 1. 关楠，**冯智伟**，邓庆绪，吕鸣松.一种无人机识别虚假GPS信号的方法；申请(专利)号：CN201610489035.5；授权日期：2020.8.28
