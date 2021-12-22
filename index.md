@@ -25,7 +25,7 @@
 在社会活动等方面，担任过Journal of Systems Architecture（CCF-B）等期刊的审稿人；担任过2019年全国大学生物联网设计竞赛（华为杯）东北赛区决赛组委会联络员等。
 
 
-更新于2021年12月17日
+更新于2021年12月20日
  --- 
 
 <!-- ### 最新消息
@@ -52,10 +52,10 @@
 
 ### 论文
 
-1. **Zhiwei Feng**，Qingxu Deng, Mingyang Cai,Jinghua Li. Efficient Reservation-based Fault-Tolerant Scheduling for IEEE 802.1Qbv Time-Sensitive Networking, Journal of Systems Architecture (2021) (已录用，SCI，CCF-B，中科院2区)
+1. **Zhiwei Feng**，Qingxu Deng, Mingyang Cai,Jinghua Li. Efficient Reservation-based Fault-Tolerant Scheduling for IEEE 802.1Qbv Time-Sensitive Networking, Journal of Systems Architecture (2021) (已录用，SCI，**CCF-B**，中科院2区)
 2. **Zhiwei Feng**, Mingyang Cai, Qingxu Deng. An Efficient Pro-active Fault-Tolerance Scheduling of IEEE 802.1Qbv Time Sensitive Network. IEEE Internet of Things Journal,2021-10-06.(SCI，中科院**1区**，已录用)
 3. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Wenchen Liu, Qingxu Deng, Xue Liu, and Wang Yi. Efficient drone hijacking detection using Two-Step GA-XGBoost[J]. Journal of Systems Architecture (2019): 101694 (SCI，**CCF-B**，中科院2区)
-4. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi. An Efficient UAV Hijacking Detection Method Using Onboard Inertial Measurement Unit[J]. ACM Transactions on Embedded Computing Systems (TECS) 17, no. 6 (2019): 96 (SCI，**CCF-B**，中科院3区)
+4. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi. An Efficient UAV Hijacking Detection Method Using Onboard Inertial Measurement Unit[J]. ACM Transactions on Embedded Computing Systems (TECS) 17, no. 6 (2019): 96 (SCI，**CCF-B**，中科院4区)
 5. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi. Efficient drone hijacking detection using onboard motion sensors[C]. In Design, Automation & Test in Europe Conference & Exhibition (DATE), 2017, pp. 1414-1419. IEEE, 2017 (EI，**CCF-B**)
 6. Yue Tang, **Zhiwei Feng**, Nan Guan, Xu Jiang, Mingsong Lv, Qingxu Deng, Wang Yi. Response Time Analysis and Priority Assignment of Processing Chains on ROS2 Executors[C]. IEEE Real-Time Systems Symposium(RTSS 2020), December, 1-4, 2020(EI，**CCF-****A**)
 7. Jiyang Chen, **Zhiwei Feng**, Jen-Yang Wen, Bo Liu, and Lui Sha. A Container-based DoS Attack-Resilient Control Framework for Real-Time UAV Systems[C]. In 2019 Design, Automation & Test in Europe Conference & Exhibition (DATE), pp. 1222-1227. IEEE, 2019 (EI，**CCF-B**)
