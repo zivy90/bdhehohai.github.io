@@ -25,7 +25,7 @@
 在社会活动等方面，担任过Journal of Systems Architecture（CCF-B）等期刊的审稿人；担任过2019年全国大学生物联网设计竞赛（华为杯）东北赛区决赛组委会联络员等。
 
 
-更新于2021年12月20日
+更新于2022年1月10日
  --- 
 
 <!-- ### 最新消息
@@ -52,8 +52,8 @@
 
 ### 论文
 
-1. **Zhiwei Feng**，Qingxu Deng, Mingyang Cai,Jinghua Li. Efficient Reservation-based Fault-Tolerant Scheduling for IEEE 802.1Qbv Time-Sensitive Networking, Journal of Systems Architecture (2021) (已录用，SCI，**CCF-B**，中科院2区)
-2. **Zhiwei Feng**, Mingyang Cai, Qingxu Deng. An Efficient Pro-active Fault-Tolerance Scheduling of IEEE 802.1Qbv Time Sensitive Network. IEEE Internet of Things Journal,2021-10-06.(SCI，中科院**1区**，已录用)
+1. **Zhiwei Feng**，Qingxu Deng, Mingyang Cai,Jinghua Li. Efficient Reservation-based Fault-Tolerant Scheduling for IEEE 802.1Qbv Time-Sensitive Networking, Journal of Systems Architecture (2022) (SCI，**CCF-B**，中科院2区)
+2. **Zhiwei Feng**, Mingyang Cai, Qingxu Deng. An Efficient Pro-active Fault-Tolerance Scheduling of IEEE 802.1Qbv Time Sensitive Network. IEEE Internet of Things Journal,2021-10-06.(SCI，中科院**1区**)
 3. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Wenchen Liu, Qingxu Deng, Xue Liu, and Wang Yi. Efficient drone hijacking detection using Two-Step GA-XGBoost[J]. Journal of Systems Architecture (2019): 101694 (SCI，**CCF-B**，中科院2区)
 4. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi. An Efficient UAV Hijacking Detection Method Using Onboard Inertial Measurement Unit[J]. ACM Transactions on Embedded Computing Systems (TECS) 17, no. 6 (2019): 96 (SCI，**CCF-B**，中科院4区)
 5. **Zhiwei Feng**, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi. Efficient drone hijacking detection using onboard motion sensors[C]. In Design, Automation & Test in Europe Conference & Exhibition (DATE), 2017, pp. 1414-1419. IEEE, 2017 (EI，**CCF-B**)
