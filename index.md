@@ -64,8 +64,7 @@
 10. 韩美灵, 邓庆绪, 张天宇, **冯智伟**, 林宇晗. 多核处理器限制性可抢占G-EDF调度策略研究[J]. 计算机学报，Vol. 42, No. 11, Nov. 2019(EI)
 11. Meiling Han, Tianyu Zhang, Yuhan Lin, **Zhiwei Feng**, and Qingxu Deng. Global Fixed Priority Scheduling with Constructing Execution Dependency in Multiprocessor Real-Time Systems[J]. Journal of Circuits, Systems and Computers 27, no. 10 (2018-2): 1850165.(SCI, 4区)
 
-### 在投论文
-1. 一作，An Enhanced Fault-Tolerance Strategy for Time-Sensitive Networking. Design Automation Conference 2022(EI，**CCF-A**)
+
 
 ### 专利
 1. 关楠，**冯智伟**，邓庆绪，吕鸣松.一种无人机识别虚假GPS信号的方法；申请(专利)号：CN201610489035.5；授权日期：2020.8.28
