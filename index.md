@@ -9,7 +9,7 @@
 <!--       <p><b>邮箱："fengzw" at "mail.neu.edu.cn"</b></p> -->
 	<p><b>邮箱：fengzw@mail.neu.edu.cn， fengzw@aliyun.com</b></p>    
       <p><b>地址：辽宁省沈阳市浑南区东北大学，信息学馆B238</b></p>
-	 <p><b>~预计2022年6月出站，目前求职中，欢迎offer砸来~</b></p>
+	
 
 <p><!--<a href="/index-en.html">简历</a>--></p>
     </td>
